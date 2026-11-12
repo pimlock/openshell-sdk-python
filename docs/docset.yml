@@ -1,0 +1,6 @@
+id: sdk-python
+title: Python SDK
+description: Python client for applications, notebooks and automation.
+nav:
+  - page: index.mdx
+    label: Python SDK
